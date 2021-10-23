@@ -13,7 +13,7 @@
 }
 
 body{
-    background-color: #40279d !important;
+    background-color: #f3f3f3 !important;
 }
 
 .rounded{
@@ -65,3 +65,21 @@ body{
 .vh-80 {
     height: 80vh!important;
 }
+
+.middle-span{
+    margin-right: 20px !important;
+}
+
+.project-div{
+    margin-top: 70px !important;
+}
+
+.div-line{
+    height: 2px;
+    background-color: #007a2f;
+    width: 100px;
+}
+
+.diagonal-background{
+    background-image: -webkit-linear-gradient(-80deg, #41b2b6 60%, #f3f3f3 40%);
+  }
