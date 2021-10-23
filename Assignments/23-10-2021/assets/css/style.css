@@ -1,0 +1,67 @@
+.btn-1{
+    background-color: #7e6eaf !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.main-bg{
+    background-color: #40279d !important;
+}
+
+.sub-bg{
+    background-color: #7e6eaf !important;
+}
+
+body{
+    background-color: #40279d !important;
+}
+
+.rounded{
+    border-radius: 10px !important;
+}
+
+.rounded-1{
+    border-radius: 20px !important;
+}
+
+/*.h1, h1 {
+    font-size: 3.5rem !important;
+}*/
+
+.bg-block-1{
+    height: 800px;
+    width: 800px;
+    border-radius: 150px;
+    background-color: #beb4db0e;
+    -ms-transform: rotate(40deg); /* IE 9 */
+    transform: rotate(40deg);
+    position: fixed;
+    top: 40%;
+    right: 5%;
+    z-index: -1;
+}
+
+.bg-block-2{
+    height: 500px;
+    width: 500px;
+    border-radius: 50px;
+    background-color: #beb4db0e;
+    -ms-transform: rotate(40deg); /* IE 9 */
+    transform: rotate(40deg);
+    position: fixed;
+    top: 50%;
+    right: -30%;
+    z-index: -1;
+}
+
+/*.bottom-bg{
+    background-image: url('../bg.png');
+    background-position: center center;
+    background-size: cover;
+    height: 500px;
+    width 100vw !important;
+}*/
+
+.vh-80 {
+    height: 80vh!important;
+}
